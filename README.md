@@ -1,7 +1,7 @@
 
-# 🎲 Snake & Ladders - Java Console Game
+# 🎲 Snakes & Ladders - Java Console Game
 
-This is a Java implementation of a simplified **Snake & Ladders** game with some special mechanics such as **death squares** and **occupied square penalties**. It is designed for multiple players and runs directly in the terminal.
+This is a simplified Java implementation of the famous board game **Snake & Ladders** with some special mechanics such as **death squares** and **occupied square penalties**. It is designed for multiple players and runs directly in the terminal.
 
 ## 🚀 Features
 
